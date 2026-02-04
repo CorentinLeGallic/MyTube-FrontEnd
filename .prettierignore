@@ -1,0 +1,12 @@
+node_modules
+
+.next
+out
+build
+
+package-lock.json
+
+.husky
+.vscode
+
+.env
